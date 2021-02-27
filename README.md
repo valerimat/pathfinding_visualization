@@ -3,16 +3,16 @@ Tried to make a fun game the most common pathfinding algorithms.
 
 The result:
 BFS:
-![BFS Demo](demo/BFS.gif)
+![BFS Demo](demo/BFS.gif =250x250 )
 
 DFS:
-![DFS Demo](demo/DFS.gif)
+![DFS Demo](demo/DFS.gif =250x250)
 
 A*:
-![A* Demo](demo/Astar.gif)
+![A* Demo](demo/Astar.gif =250x250)
 
 Dijikstra:
-![Dijikstra Demo](demo/Dijikstra.gif)
+![Dijikstra Demo](demo/Dijikstra.gif =250x250) 
 
 
 //========================================================================================
