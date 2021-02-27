@@ -1,9 +1,11 @@
 Algorithm visualisation
 Tried to make a fun game the most common pathfinding algorithms.
 
+<img src="https://github.com/BFS.gifwidth="48">
+
 The result:
 BFS:
-![BFS Demo](demo/BFS.gif {width=40px height=400px})
+![BFS Demo](demo/BFS.gif)
 
 DFS:
 ![DFS Demo](demo/DFS.gif =250x250)
