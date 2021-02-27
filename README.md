@@ -1,6 +1,20 @@
 Algorithm visualisation
 Tried to make a fun game the most common pathfinding algorithms.
 
+The result:
+BFS:
+![BFS Demo](demo/BFS.gif)
+
+DFS:
+![DFS Demo](demo/DFS.gif)
+
+A*:
+![A* Demo](demo/Astar.gif)
+
+Dijikstra:
+![Dijikstra Demo](demo/Dijikstra.gif)
+
+
 //========================================================================================
 How to run:
 To run you will have to have few components:
