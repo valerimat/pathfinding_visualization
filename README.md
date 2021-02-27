@@ -1,4 +1,4 @@
-Algorithm visualisation, \n
+###### Algorithm visualisation
 Tried to make a fun game the most common pathfinding algorithms.
 
 
