@@ -16,8 +16,6 @@ A*:
 Dijikstra:
 ![Dijikstra Demo](demo/Dijikstra.gif) 
 
-
-//========================================================================================
 How to run:
 To run you will have to have few components:
 1.Visual Studio.
@@ -28,7 +26,6 @@ after which you can run it.
 
 Note: you migh need to change the path of the SFML in the CmakeList.txt in the main folder.
 
-//========================================================================================
 How to use:
 you can choose the algorithm through the terminal
 to choose a new one just close the window.
@@ -37,7 +34,6 @@ to choose a new one just close the window.
 3.press start
 4.enjoy.
 
-//========================================================================================
 Note: Dfs is not a path finding algorithm but it is still included.
 
 few final notes:
