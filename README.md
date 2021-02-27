@@ -1,7 +1,7 @@
 Algorithm visualisation
 Tried to make a fun game the most common pathfinding algorithms.
 
-<img src="https://github.com/BFS.gifwidth="48">
+<img src="https://github.com/valerimat/pathfinding_visualization/blob/master/demo/BFS.gif.gifwidth="48">
 
 The result:
 BFS:
