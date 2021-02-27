@@ -1,7 +1,7 @@
 Algorithm visualisation
 Tried to make a fun game the most common pathfinding algorithms.
 
-<img src="BFS.gif" width="324" height="324">
+<img src="BFS.gif" width="500" height="324">
 
 The result:
 BFS:
