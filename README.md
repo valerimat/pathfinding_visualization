@@ -1,20 +1,20 @@
 Algorithm visualisation
 Tried to make a fun game the most common pathfinding algorithms.
 
-<img src="https://github.com/BFS.gif" width="200"/>
+
 
 The result:
 BFS:
-![BFS Demo](demo/BFS.gif)
+![BFS Demo](demo/BFS.gif){:height="36px" width="36px"}
 
 DFS:
-![DFS Demo](demo/DFS.gif =250x250)
+![DFS Demo](demo/DFS.gif)
 
 A*:
-![A* Demo](demo/Astar.gif =250x250)
+![A* Demo](demo/Astar.gif)
 
 Dijikstra:
-![Dijikstra Demo](demo/Dijikstra.gif =250x250) 
+![Dijikstra Demo](demo/Dijikstra.gif) 
 
 
 //========================================================================================
