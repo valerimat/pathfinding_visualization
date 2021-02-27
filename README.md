@@ -3,7 +3,7 @@ Tried to make a fun game the most common pathfinding algorithms.
 
 The result:
 BFS:
-![BFS Demo](demo/BFS.gif =250x250 )
+![BFS Demo](demo/BFS.gif {width=40px height=400px})
 
 DFS:
 ![DFS Demo](demo/DFS.gif =250x250)
